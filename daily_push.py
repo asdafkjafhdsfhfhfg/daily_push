@@ -54,7 +54,7 @@ def format_html_email(projects):
     <html>
     <body style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto;">
         <div style="padding: 20px 0; border-bottom: 2px solid #eaecef; margin-bottom: 20px;">
-            <h2 style="margin: 0; color: #24292e;">🚀 GitHub 每日 start 榜单 top 5</h2>
+            <h2 style="margin: 0; color: #24292e;">🚀 GitHub 每日 star 榜单 top 5</h2>
             <p style="margin: 5px 0 0; color: #586069; font-size: 14px;">{date_str} | Daily Report</p>
         </div>
     """
